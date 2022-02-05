@@ -6,3 +6,9 @@ long (predictive probability)-0.5 unit if probability >0.5 and short 0.5-(predic
 
 simple method:
 A traditional portfolio test, which discovers that the dataset has a lot of junk tokens. 
+
+classification:
+a general test that is packaged in .py
+
+summary:
+simple test to find the optimal hyperparameter for mean-reversion and momentum.
